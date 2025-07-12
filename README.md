@@ -15,10 +15,12 @@ Here are some ideas to get you started:
 
 ## 👋 Hi, I'm Xue Xia (call me Stella or 夏雪)
 
+📢 **I'm currently actively seeking full-time Software Engineering roles (SDE / ML Infra) for 2025!**  
+
 🎓 M.S. in Statistics @ University of Michigan (2023–2025)  
 🎓 B.S. in Statistics @ University of Science and Technology of China (2019–2023)  
 💻 I’m passionate about software development, infrastructure, and machine learning systems.  
-📍 Based in Sunnyvale, CA — actively seeking full-time Software Engineering roles (SDE/ML) for 2025!
+📍 Based in Sunnyvale, CA, open to opportunities across the San Francisco Bay Area
 
 ---
 ### Featured Projects
@@ -65,11 +67,13 @@ At TikTok, I worked with both **relational** (MySQL, PostgreSQL) and **NoSQL** (
 
 Spark, Time Series Analysis, Hypothesis Testing, ANN Vector Search, Benchmarking, CI/CD
 
+---
+
 ### Let's connect
 
 haasyut@gmail.com
 
-[Resume](./Xue_Xia_Resume.pdf)  
+[Resume](./Xue_Xia_resume.pdf)  
 
 [LinkedIn](https://linkedin.com/in/xuexia2001)  
 
@@ -80,4 +84,4 @@ When I’m not debugging or benchmarking, you can find me reading sci-fi, watchi
 
 ---
 
-_Thanks for visiting! Let's make the world a better place!_
+_Thanks for stopping by! Let's make the world a better place!_
